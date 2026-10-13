@@ -1,0 +1,73 @@
+Algorithm,InputType,Size,Iterations,MeanTimeMicroseconds,MeanComparisons,Correctness
+Bubble Sort,Random,1000,5,460.995,498465,Passed
+Bubble Sort,Random,10000,5,47485.9,49993404,Passed
+Bubble Sort,Random,100000,5,SKIPPED,SKIPPED,N/A
+Bubble Sort,Increasing,1000,5,0.5946,999,Passed
+Bubble Sort,Increasing,10000,5,5.6922,9999,Passed
+Bubble Sort,Increasing,100000,5,70.4642,99999,Passed
+Bubble Sort,Decreasing,1000,5,352.427,499500,Passed
+Bubble Sort,Decreasing,10000,5,30740.6,49995000,Passed
+Bubble Sort,Decreasing,100000,5,SKIPPED,SKIPPED,N/A
+Insertion Sort,Random,1000,5,115.22,250762,Passed
+Insertion Sort,Random,10000,5,9969.37,24731008,Passed
+Insertion Sort,Random,100000,5,SKIPPED,SKIPPED,N/A
+Insertion Sort,Increasing,1000,5,0.6784,999,Passed
+Insertion Sort,Increasing,10000,5,6.7948,9999,Passed
+Insertion Sort,Increasing,100000,5,74.884,99999,Passed
+Insertion Sort,Decreasing,1000,5,234.443,499500,Passed
+Insertion Sort,Decreasing,10000,5,20021.8,49995000,Passed
+Insertion Sort,Decreasing,100000,5,SKIPPED,SKIPPED,N/A
+Merge Sort,Random,1000,5,46.0696,8695,Passed
+Merge Sort,Random,10000,5,571.752,120433,Passed
+Merge Sort,Random,100000,5,6564.18,1536214,Passed
+Merge Sort,Increasing,1000,5,11.6944,5044,Passed
+Merge Sort,Increasing,10000,5,155.24,69008,Passed
+Merge Sort,Increasing,100000,5,1497.47,853904,Passed
+Merge Sort,Decreasing,1000,5,17.5726,4932,Passed
+Merge Sort,Decreasing,10000,5,128.688,64608,Passed
+Merge Sort,Decreasing,100000,5,1519.4,815024,Passed
+Quick Sort (First Pivot),Random,1000,5,41.5548,15177,Passed
+Quick Sort (First Pivot),Random,10000,5,499.305,210105,Passed
+Quick Sort (First Pivot),Random,100000,5,6667.23,2583173,Passed
+Quick Sort (First Pivot),Increasing,1000,5,250.479,501498,Passed
+Quick Sort (First Pivot),Increasing,10000,5,17340.8,50014998,Passed
+Quick Sort (First Pivot),Increasing,100000,5,SKIPPED,SKIPPED,N/A
+Quick Sort (First Pivot),Decreasing,1000,5,229.96,501998,Passed
+Quick Sort (First Pivot),Decreasing,10000,5,16409.2,50019998,Passed
+Quick Sort (First Pivot),Decreasing,100000,5,SKIPPED,SKIPPED,N/A
+Quick Sort (Random Pivot),Random,1000,5,68.723,15709,Passed
+Quick Sort (Random Pivot),Random,10000,5,717.354,197186,Passed
+Quick Sort (Random Pivot),Random,100000,5,7444.97,2496952,Passed
+Quick Sort (Random Pivot),Increasing,1000,5,50.2624,15956,Passed
+Quick Sort (Random Pivot),Increasing,10000,5,404.281,212741,Passed
+Quick Sort (Random Pivot),Increasing,100000,5,3877.35,2501334,Passed
+Quick Sort (Random Pivot),Decreasing,1000,5,41.4142,16003,Passed
+Quick Sort (Random Pivot),Decreasing,10000,5,401.151,203467,Passed
+Quick Sort (Random Pivot),Decreasing,100000,5,3936.81,2521501,Passed
+Quick Sort (Median of 3),Random,1000,5,42.2794,16594,Passed
+Quick Sort (Median of 3),Random,10000,5,565.889,202300,Passed
+Quick Sort (Median of 3),Random,100000,5,6134.52,2421653,Passed
+Quick Sort (Median of 3),Increasing,1000,5,10.8368,13972,Passed
+Quick Sort (Median of 3),Increasing,10000,5,116.946,173612,Passed
+Quick Sort (Median of 3),Increasing,100000,5,1166.11,2068924,Passed
+Quick Sort (Median of 3),Decreasing,1000,5,13.2172,13973,Passed
+Quick Sort (Median of 3),Decreasing,10000,5,120.448,173613,Passed
+Quick Sort (Median of 3),Decreasing,100000,5,1186.74,2068925,Passed
+Heap Sort,Random,1000,5,25.6784,16879,Passed
+Heap Sort,Random,10000,5,392.525,235408,Passed
+Heap Sort,Random,100000,5,5314.57,3019730,Passed
+Heap Sort,Increasing,1000,5,24.4696,17583,Passed
+Heap Sort,Increasing,10000,5,333.812,244460,Passed
+Heap Sort,Increasing,100000,5,4045.38,3112517,Passed
+Heap Sort,Decreasing,1000,5,21.9664,15965,Passed
+Heap Sort,Decreasing,10000,5,329.587,226682,Passed
+Heap Sort,Decreasing,100000,5,3971.86,2926640,Passed
+Radix Sort,Random,1000,5,10.161,N/A,Passed
+Radix Sort,Random,10000,5,78.4016,N/A,Passed
+Radix Sort,Random,100000,5,1021.69,N/A,Passed
+Radix Sort,Increasing,1000,5,8.8478,N/A,Passed
+Radix Sort,Increasing,10000,5,96.5378,N/A,Passed
+Radix Sort,Increasing,100000,5,1358.05,N/A,Passed
+Radix Sort,Decreasing,1000,5,12.3402,N/A,Passed
+Radix Sort,Decreasing,10000,5,94.3028,N/A,Passed
+Radix Sort,Decreasing,100000,5,1393.08,N/A,Passed
